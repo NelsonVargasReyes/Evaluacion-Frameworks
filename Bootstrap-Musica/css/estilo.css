@@ -1,0 +1,33 @@
+body{	
+	background:url(../img/fondo.jpg);
+	background-attachment: fixed;
+	background-repeat: no-repeat;
+}
+.container{
+	background: #3E4C73;
+}
+.container h1{
+	color:darkkhaki;
+	text-shadow: 3px 2px #000;
+}
+.container h2{
+	color:blanchedalmond;
+}
+.container img{
+	width: auto;
+	margin: auto;
+}
+.container h3{
+	color:darkkhaki;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+	text-shadow: 1px 2px #000;		
+}
+.container p{
+	color: #FFFFFF;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+footer h4{
+	color: darkkhaki;
+}
+
+
